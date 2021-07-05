@@ -2,14 +2,13 @@
   <tr>
     <td width="75%">
       <h1>Yuhong He</h1>
-      <div>I received my bachelor’s degree (major in software engineering) and master’s degree (major in computer technology) from South China Agricultural University in China. Since Sep. 2020, I am an assistant lecturer at the College of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, china. My email: <email>voiyh@163.com</email></div>
+      <div align="justify">I received my bachelor’s degree (major in software engineering) and master’s degree (major in computer technology) from South China Agricultural University in China. Since Sep. 2020, I am an assistant lecturer at the College of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, china. My email: <email>voiyh@163.com</email></div>
     </td>
     <td width="25%">
       <img src="./hyhong.jpg" width="100%">
     </td>
   </tr>
 </table>
-
 
 
 ### Education
