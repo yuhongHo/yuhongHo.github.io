@@ -8,13 +8,13 @@
 </style>
 <table border="0" class="info">
   <tr>
-    <td width="75%">
+    <td width="65%">
       <h1>Yuhong He</h1>
       <div>
         <h5>Email: voiyh@163.com</h5>
       </div>
     </td>
-    <td width="25%">
+    <td width="35%" margin: auto>
       <img src="./hyhong.jpg" width="100%">
     </td>
   </tr>
