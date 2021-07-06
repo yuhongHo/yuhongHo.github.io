@@ -22,7 +22,7 @@
   </tr>
 </table>
   <div align="justify"> 
-    <p>I am currently an assistant lecture at the College of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, China.</p>
+    <p>I am currently an assistant lecture at the College of Information Science and Technology, Zhongkai University of Agriculture and Engineering, Guangzhou, China. My research interest lies at Spoken/Natural Language Understanding, Knowledge-guide NLP and other areas.  In the long run, I am keen to designing deep learning algorithms for improving interpretability and understanding for SLU/NLU, with a primary focus on spoken text and natural language data. Specifically, I mainly focus on (1) developing knowledge-based algorithms to introduce different knowledge to Utterance Domain Classifification in SLU; (2) developing representation learning algorithms to improve context understanding for entity type classification; (3)  developing denoising algorithms to reduce label noise for entity type classification. Recently, I've been focusing on cue words for contextual understanding for entity , e.g., syntax-related words. Before jolining the Zhongkai University of Agriculture and Engineering, I received my bachelor’s degree and master’s degree from South China Agricultural University (SCAU) in Guangzhou, China.</p>
     <p>My research interest lies at Spoken/Natural Language Understanding, Knowledge-guide NLP and other areas.  In the long run, I am keen to designing deep learning algorithms for improving interpretability and understanding for SLU/NLU, with a primary focus on spoken text and natural language data. Specifically, I mainly focus on (1) developing knowledge-based algorithms to introduce different knowledge to Utterance Domain Classifification in SLU; (2) developing representation learning algorithms to improve context understanding for entity type classification; (3)  developing denoising algorithms to reduce label noise for entity type classification. Recently, I've been focusing on cue words for contextual understanding for entity , e.g., syntax-related words.</p>
        <p>Before jolining the Zhongkai University of Agriculture and Engineering, I received my bachelor’s degree and master’s degree from South China Agricultural University (SCAU) in Guangzhou, China.</p></div>
 
@@ -40,9 +40,7 @@
 
 ### Research Interests
 
-- **Natural Language Understanding**: Utterance Domain Classifification, Intent Classifification, Slot Filling, Entity Linking,
-
-  Entity Typing, Task-Oriented Dialog System
+- **Natural Language Understanding**: Utterance Domain Classifification, Intent Classifification, Slot Filling, Entity Linking, Entity Typing, Task-Oriented Dialog System
 
 - **Knowledge-guide NLP**: Application on Large-scale Knowledge Bases
 
