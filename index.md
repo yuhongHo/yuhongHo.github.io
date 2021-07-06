@@ -28,7 +28,7 @@
 
 ### **Experiences**
 
-- **Sep. 2020 - at present:** An sssistant lecture at  the Zhongkai University of Agriculture and Engineering
+- **Sep. 2020 - At present:** An sssistant lecturer at  the Zhongkai University of Agriculture and Engineering
 
 - **Sep. 2018 – July. 2020:** Master of Computer Technology, SCAU; GPA: 4.12/5.0, top 5%
 
@@ -38,7 +38,7 @@
 
 ### Research Interests
 
-- **Natural Language Understanding**: Utterance Domain Classifification, Intent Classifification, Slot Filling, Entity Linking, Entity Typing, Task-Oriented Dialog System
+- **Natural Language Understanding**: Utterance Domain Classification, Intent Classification, Slot Filling, Task-Oriented Dialog System, Entity Linking, Entity Typing
 
 - **Knowledge-guide NLP**: Application on Large-scale Knowledge Bases
 
@@ -46,11 +46,11 @@
 
 ### **Publications**
 
-- **He, Y.**, Huang, P., Du, Z., et al.: Distant Supervision Based Utterance Domain Classifification with Domain-Specifific NER. Journal of Chinese Information Processing, 2020, 34(5): 10-18. (In Chinese with English abstract)
+- **He, Y.**, Huang, P., Du, Z., et al.: Distant Supervision Based Utterance Domain Classification with Domain-Specific NER. Journal of Chinese Information Processing, 2020, 34(5): 10-18. (In Chinese with English abstract)
 
 - He, Z., **He, Y.**, Wu, Q., et al.: FG2Seq: Effffectively Encoding Knowledge for End-to-End Task-Oriented Dialog. In: Proceedings of the 45th International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2020), May 4-8, 2020.
 
-- Du, Z., Huang, P., **He, Y.**, et al.: A Knowledge-Gate Mechanism for Utterance Domain Classifification. In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC2019), October 13-14, 2019.
+- Du, Z., Huang, P., **He, Y.**, et al.: A Knowledge-Gate Mechanism for Utterance Domain Classification. In: Proceedings of the 8th CCF International Conference on Natural Language Processing and Chinese Computing (NLPCC2019), October 13-14, 2019.
 
   
 
@@ -69,15 +69,15 @@
 
 ### **Competition Experiences**
 
-- 8th prize at The Eighth China National Conference on Social Media Processing - The Third Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): Natural Language Understanding (including Utterance Domain Classifification [2nd prize], Intent Detection [2nd prize], Slot Filling), China, 2019.
-- 4th prize at The Seventh China National Conference on Social Media Processing - The Second Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): User Intent Classifification Task, China, 2018.
-- 10th prize at The Seventeenth China National Conference on Computational Linguistics (CCL) - The Technological Evaluation of User Intent Classifification Task in Customer Service Domain, China, 2018.
+- 8th place at The Eighth China National Conference on Social Media Processing - The Third Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): Natural Language Understanding (including Utterance Domain Classification [2nd prize], Intent Detection [2nd prize], Slot Filling), China, 2019.
+- 4th place at The Seventh China National Conference on Social Media Processing - The Second Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): User Intent Classifification Task, China, 2018.
+- 10th place at The Seventeenth China National Conference on Computational Linguistics (CCL) - The Technological Evaluation of User Intent Classifification Task in Customer Service Domain, China, 2018.
 
 
 
 ### **Intern Experiences**
 
--  Intern in Guangzhou Flame Information Technology Co., Ltd, Sep. 2019 - Dec. 2019, Program: Multi-class Multi-label Intent Classifification and Sentiment Analysis in Customer Service Domain.
+-  Intern in Guangzhou Flame Information Technology Co., Ltd, Sep. 2019 - Dec. 2019, Program: Multi-class Multi-label Intent Classification and Sentiment Analysis in Customer Service Domain.
 
 
 
