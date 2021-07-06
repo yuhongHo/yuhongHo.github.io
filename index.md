@@ -2,6 +2,7 @@
 
 <style>
   table div p{font-size=20pt;}
+  table td{margin: auto}
 	div p{
     		text-indent: 2em;
   }
@@ -14,7 +15,7 @@
         <h5>Email: voiyh@163.com</h5>
       </div>
     </td>
-    <td width="35%" margin: auto>
+    <td width="35%">
       <img src="./hyhong.jpg" width="100%">
     </td>
   </tr>
