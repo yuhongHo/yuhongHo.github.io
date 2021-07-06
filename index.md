@@ -25,6 +25,7 @@
        <p>Before joining the Zhongkai University of Agriculture and Engineering, I received my bachelor’s degree and master’s degree from South China Agricultural University (SCAU) in Guangzhou, China.</p></div>
 
 
+
 ### **Experiences**
 
 - **Sep. 2020 - at present:** An sssistant lecture at  the Zhongkai University of Agriculture and Engineering
@@ -68,15 +69,15 @@
 
 ### **Competition Experiences**
 
-- 8th prize at The Eighth China National Conference on Social Media Processing - The Third Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): Natural Language Understanding (including Utterance Domain Classifification [2nd prize], Intent Detection [2nd prize], Slot Filling), China, 2019.
-- 4th prize at The Seventh China National Conference on Social Media Processing - The Second Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): User Intent Classifification Task, China, 2018.
+- 8th prize at The Eighth China National Conference on Social Media Processing - The Third Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): Natural Language Understanding (including Utterance Domain Classifification [2nd prize], Intent Detection [2nd prize], Slot Filling), China, 2019.
+- 4th prize at The Seventh China National Conference on Social Media Processing - The Second Evaluation of Chinese Human-Computer Dialogue Technology (SMP-ECDT): User Intent Classifification Task, China, 2018.
 - 10th prize at The Seventeenth China National Conference on Computational Linguistics (CCL) - The Technological Evaluation of User Intent Classifification Task in Customer Service Domain, China, 2018.
 
 
 
 ### **Intern Experiences**
 
--  Intern in Guangzhou Flame Information Technology Co., Ltd, Sep. 2019 - Dec. 2019, Program: Multi-class Multi-label Intent Classifification and Sentiment Analysis in Customer Service Domain.
+-  Intern in Guangzhou Flame Information Technology Co., Ltd, Sep. 2019 - Dec. 2019, Program: Multi-class Multi-label Intent Classifification and Sentiment Analysis in Customer Service Domain.
 
 
 
