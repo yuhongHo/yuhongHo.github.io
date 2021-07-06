@@ -1,7 +1,5 @@
 
 
-<!DOCTYPE html><html lang="en"><head>
-<meta charset="UTF-8">
 <style>
   table div p{font-size=20pt;}
 	div p{
@@ -10,7 +8,7 @@
 </style>
 <table border="0" class="info">
   <tr>
-    <td width="70%">
+    <td width="75%">
       <h1>Yuhong He</h1>
       <div>
         <h5>Email: voiyh@163.com</h5>
