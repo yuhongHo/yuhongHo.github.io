@@ -75,10 +75,10 @@
 
 
 ### **Services and Awards**
-- Outstanding Graduate of Master, 2019
-- President of China Computer Federation (CCF) SCAU Student Branch, 2019-2020
-- National Master Scholarship, 2019
-- SCAU First Class Scholarship, 2018, 2019
+- Outstanding Graduate of Master, 2019.
+- President of China Computer Federation (CCF) SCAU Student Branch, 2019-2020.
+- National Master Scholarship, 2019.
+- SCAU First Class Scholarship, 2018, 2019.
 
 
 
