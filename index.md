@@ -26,7 +26,7 @@
 
 ### **Experiences**
 
-- **Sep. 2020 - At present:** An sssistant lecturer at the College of Information Science  and Technology, Zhongkai University of Agriculture and Engineering
+- **Sep. 2020 - At present:** An assistant lecturer at the College of Information Science  and Technology, Zhongkai University of Agriculture and Engineering
 - **Sep. 2018 – July. 2020:** Master of Computer Technology, SCAU; GPA: 4.12/5.0, top 5%
 - **Sep. 2013 – July. 2017:** Bachelor of Software Engineering, SCAU; GPA: 3.41/5.0
 
@@ -47,13 +47,13 @@
 
 ### **Course Teaching**
 
-- **Zhongkai University of Agriculture and Engineering:**
+- **Zhongkai University of Agriculture and Engineering, Assistant lecturer:**
 	- Natural Language Processing, Spring 2022.
 	- Machine Learning, Fall 2021.
 	- The Python Programming Language, Spring 2021, Fall 2021, Spring 2022.
 	- Introduction to Object-Oriented Programming Using C++, Fall 2020.
 	- The C Programming Language, Fall 2020.
-- **Guangdong Eco-Engineering Polytechnic:**
+- **Guangdong Eco-Engineering Polytechnic, Teaching Assistant:**
 	- Python and Machine Learning, Fall 2020, Fall 2019.
 
 
